@@ -1,6 +1,7 @@
 August Updates: 
-- Set-up MongoDB locally
+- Set-up MongoDB locally - working on integrating Node.js with Mongodb with an experimental driver
 - Set-up Anaconda & Jupyter Notebook
 - Collecting sources to create dictionaries of molecular pathways (KEGG, BioCarta, GO database) & models of depression & relevant outcome measures
 - Testing functionality of CM tools to handle large numbers of papers & deal with pdf transformation
 --- questions regarding length of advanced search to be entered into e.g. EuPMC
+- Awaiting results from previous link in the pipeline
