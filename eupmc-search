@@ -11,5 +11,8 @@ returns 583019 on EUpmc website
 getpapers -q '((("depressive disorder" OR "depression" OR "depressive behavior" OR "depressive behaviour" OR "dysthymia" OR "dysthymic") AND animal) NOT ("PTSD" OR "posttraumatic stress disorde"r OR "postpartum" OR "schizophrenia" OR PUB_TYPE:"comment" OR PUB_TYPE:"letter" OR PUB_TYPE:"Review"))'
 returns 28704 records with getpapers
 
-the above implementation (depressive disorder OR depression OR depressive behavio* OR dysthymi*) AND animal* NOT (PTSD OR posttraumatic stress disorder OR postpartum OR schizophrenia OR PUB_TYPE:comment OR PUB_TYPE:letter OR PUB_TYPE:Review)
-retrieves 4581 on EUpmc website
+getpapres -q '(((depressive disorder OR depression OR depressive behavior OR depressive behaviour OR dysthymia OR dysthymic) AND animal) NOT (PTSD OR posttraumatic stress disorder OR postpartum OR schizophrenia OR PUB_TYPE:"comment" OR PUB_TYPE:"letter" OR PUB_TYPE:"Review"))' 
+returns 2092 in getpapers
+
+(((depressive disorder OR depression OR depressive behavior OR depressive behaviour OR dysthymia OR dysthymic) AND animal) NOT (PTSD OR posttraumatic stress disorder OR postpartum OR schizophrenia OR PUB_TYPE:"comment" OR PUB_TYPE:"letter" OR PUB_TYPE:"Review"))
+on website retrieves 209825 records
