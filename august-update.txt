@@ -4,4 +4,8 @@ August Updates:
 - Collecting sources to create dictionaries of molecular pathways (KEGG, BioCarta, GO database) & models of depression & relevant outcome measures
 - Testing functionality of CM tools to handle large numbers of papers & deal with pdf transformation
 --- questions regarding length of advanced search to be entered into e.g. EuPMC
-- Awaiting results from previous link in the pipeline
+- Awaiting results from previous link in the pipeline of 'included' papers that are relevant to my research question
+
+- Pursuing two avenues for importing search into ContentMine tool work flow. 
+  - URL list requires full-text web link - requires manual
+  - getpapers and the capability of dealing with a) large number of papers and b) discrepancies with searches, between e.g. pubmed, and between API and website
