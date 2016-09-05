@@ -1,0 +1,3 @@
+Europe PubMedCentral Search
+
+(depressive disorder OR depression OR depressive behavio* OR dysthymi*) AND animal* NOT (PTSD OR posttraumatic stress disorder OR postpartum OR schizophrenia OR PUB_TYPE:comment OR PUB_TYPE:letter OR PUB_TYPE:Review)
