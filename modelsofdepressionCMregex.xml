@@ -1,0 +1,39 @@
+<compoundRegex title="DepressionModels">
+<regex weight="1.0" fields="forcedswim">([fF]orced|[pP]orsolt) [sS]wim|FST</regex>
+<regex weight="1.0" fields="cforcedswim">[cC]hronic [fF]orced [sS]wim|CFST|cFST</regex>
+<regex weight="1.0" fields="tailsuspension">[tT]ail [sS]uspension [tT]est|TST</regex>
+<regex weight="1.0" fields="chronicstress">([cC]hronic)?(-| )?([uU]npredictable|[vV]ariable)?(-| )?([mM]ild)?(-| )? [sS]tress|UMS|CUS|CUMS|CMS|CVS</regex>
+<regex weight="1.0" fields="emotionalstress">([cC]hronic)?(-| )?([pP]sychosocial|[eE]motional) [sS]tress</regex>
+<regex weight="1.0" fields="forcedsubordination">[fF]orced [sS]ubordination</regex>
+<regex weight="1.0" fields="socialdefeat">[sS]ocial [dD]efeat ([sS]tress)?|SDS</regex>
+<regex weight="1.0" fields="matdeprevation">[mM]aternal [dD]eprivation</regex>
+<regex weight="1.0" fields="learnedhelpless">([cC]hronic)?(-| )?[lL]earned [hH]elplessness|LH</regex>
+<regex weight="1.0" fields="intermitstress">([iI]ntermittent|[cC]hronic)?(-| )?([wW]alking|[sS]wim|[rR]estraint) [sS]tress|ISS</regex>
+<regex weight="1.0" fields="romanavoidance">[rR]oman ([lL]ow|[hH]igh) [aA]voidance|RLA|RHA</regex>
+<regex weight="1.0" fields="highanxiety">([lL]ow|[hH]igh) [aA]nxiety behaviou?r|HAB|LAB</regex>
+<regex weight="1.0" fields="DPATsens">([lL]ow|[hH]igh) (8-OH-)?DPAT [sS]ensitive|HDS|LDS</regex>
+<regex weight="1.0" fields="distinctdepressed">([dD]istinct)?(-| )?['|"]?[dD]epressed['|"]?(-| )?[rR]at(-| )?[lL]ine|DRL</regex>
+<regex weight="1.0" fields="alphaKO">[aA]lpha[-| ]?[2A adrenergic ([kK]nock(-| )?out|KO</regex>
+<regex weight="1.0" fields="sertKO">SERT [kK]nock(-| )?out|SERT[-| ]?KO</regex>
+<regex weight="1.0" fields="serttransKO">([sS]erotonin [tT]ransporter|5-HTT|\(htt, slc6a4\)) ([kK]nock(-| )?out|KO)</regex>
+<regex weight="1.0" fields="DATKO">DAT[-| ]?([kK]nock(-| )?out|KO)</regex>
+<regex weight="1.0" fields="gluKO">GluD1[-| ]?([kK]nock(-| )?out|KO)</regex>
+<regex weight="1.0" fields="ENUmut">N-ethyl-N-nitrosourea|ENU muta\w+</regex>
+<regex weight="1.0" fields="LPSinsult">([lL]ipopolysaccharide|LPS) ([aA]dministration[iI]nsult)</regex>
+<regex weight="1.0" fields="CORTinject">[cC]orticosterone|CORT inject(ion|ed|s)?</regex>
+<regex weight="1.0" fields="DEX">[dD]examethasone [sS]odium-[pP]hosphate|DEX|[dD]examethasone [iI]nject(ion|ed|s)?</regex>
+<regex weight="1.0" fields="subDEX">subcutaneous inject(ion|ed|s)? of [dD]examethasone [sS]odium-[pP]hosphate|DEX|[dD]examethasone</regex>
+<regex weight="1.0" fields="CORTdep">([cC]orticosterone|CORT)[-| ][iI]nduced [dD]epression</regex>
+<regex weight="1.0" fields="CRFoverexp">CRF [oO]verexpressing|[oO]verexpressing CRF|CRF[-| ]?OE</regex>
+<regex weight="1.0" fields="drugwithdraw">[pP]sychostimulant|[cC]ocaine|[aA]mphetamine[-| ]withdrawal</regex>
+<regex weight="1.0" fields="isoTreat">[iI]sotretinoin[-| ]treat(ed|ment)?</regex>
+<regex weight="1.0" fields="respTreat">[rR]eserpine[-| ]treat(ed|ment)?</regex>
+<regex weight="1.0" fields="trypTreat">[tT]ryptophan[-| ]treat(ed|ment)?</regex>
+<regex weight="1.0" fields="magnesiumRest">[mM]agnesium[-| ][rR]estrict\w+</regex>
+<regex weight="1.0" fields="olfactBulb">[oO]lfactory [[bB]ulbectomy|[dD]eafferentation]</regex>
+<regex weight="1.0" fields="OBX">OBX[-| ][iI]nduced [bB]ehaviou?ral [sS]yndrome</regex>
+<regex weight="1.0" fields="microbiome">[mM]icrobio[ome|ta]|[dD]ysbiosis</regex>
+<regex weight="1.0" fields="FSL">[fF]linders [sS]ensitive ([lL]ine)?|FSL</regex>
+<regex weight="1.0" fields="wistarKyoto">[wW]istar[-| ][kK]yoto|WKY)</regex>
+<regex weight="1.0" fields="fawnhood">[fF]awn[-| ][hH]ooded|FH</regex>
+</compoundRegex>
