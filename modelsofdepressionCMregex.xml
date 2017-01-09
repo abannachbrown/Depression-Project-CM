@@ -19,6 +19,7 @@
 <regex weight="1.0" fields="DATKO">DAT[-| ]?([kK]nock(-| )?out|KO)</regex>
 <regex weight="1.0" fields="gluKO">GluD1[-| ]?([kK]nock(-| )?out|KO)</regex>
 <regex weight="1.0" fields="ENUmut">N-ethyl-N-nitrosourea|ENU muta\w+</regex>
+<regex weight="1.0" fields="CLOCK">CLOCK|Circadian Locomotor Output Cycles Kaput</regex>
 <regex weight="1.0" fields="LPSinsult">([lL]ipopolysaccharide|LPS) ([aA]dministration[iI]nsult)</regex>
 <regex weight="1.0" fields="CORTinject">[cC]orticosterone|CORT inject(ion|ed|s)?</regex>
 <regex weight="1.0" fields="DEX">[dD]examethasone [sS]odium-[pP]hosphate|DEX|[dD]examethasone [iI]nject(ion|ed|s)?</regex>
