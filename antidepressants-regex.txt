@@ -1,0 +1,145 @@
+﻿<compoundRegex title="AntidepressantsfromWIKI">
+<regex weight="1.0" fields="citalopram">[cC]italopram|[cC]elexa|[cC]ipramil</regex>
+<regex weight="1.0" fields="escitalopram">[eE]scitalopram|[lL]exapro|[cC]ipralex</regex>
+<regex weight="1.0" fields="paroxetine">[pP]aroxetine|[pP]axil|[sS]eroxat</regex>
+<regex weight="1.0" fields="fluoxetine">[fF]luoxetine|[pP]rozac|[sS]arafem</regex>
+<regex weight="1.0" fields="fluvoxamine">[fF]luvoxamine|[lL]uvox|[fF]averin|[fF]evarin|[fF]loxyfral|[dD]umyrox</regex>
+<regex weight="1.0" fields="sertraline">[sS]ertraline|[zZ]oloft|[lL]ustral</regex>
+<regex weight="1.0" fields="zimelidine">[zZ]imelidine|[nN]ormud|[zZ]elmid</regex>
+<regex weight="1.0" fields="indalpine">[iI]ndalpine|[uU]pstene</regex>
+<regex weight="1.0" fields="desvenlafaxine">[dD]esvenlafaxine|[pP]ristiq|[dD]esfax|[eE]llefore|O-desmethylvenlafaxine</regex>
+<regex weight="1.0" fields="duloxetine">[dD]uloxetine|[cC]ymbalta</regex>
+<regex weight="1.0" fields="levomilnacipran">[lL]evomilnacipran|[fF]etzima</regex>
+<regex weight="1.0" fields="milnacipran">[mM]ilnacipran|[iI]xel|[sS]avella|[dD]alcipran|[tT]oledomin</regex>
+<regex weight="1.0" fields="tofenacin">[tT]ofenacin|[eE]lamol|[tT]ofacine|[tT]ofalin|[tT]ofenacin hydrochloride</regex>
+<regex weight="1.0" fields="venlafaxine">[vV]enlafaxine|[eE]ffexor|[lL]anvexin|[vV]iepax|[tT]revilor</regex>
+<regex weight="1.0" fields="vilazodone">[vV]ilazodone|[vV]iibryd</regex>
+<regex weight="1.0" fields="vortioxetine">[vV]ortioxetine|[tT]rintellix|[bB]rintellix</regex>
+<regex weight="1.0" fields="etoperidone">[eE]toperidone|[aA]xiomin|[eE]tonin|[cC]entren|[dD]epracer|[eE]toran|[sS]taff|[tT]ropene|[cC]lopradone|[tT]riazolinone</regex>
+<regex weight="1.0" fields="nefazodone">[nN]efazodone|[nN]efadar|[sS]erzone|[dD]utonin</regex>
+<regex weight="1.0" fields="trazodone-2names">[tT]razodone|[dD]esyrel</regex>
+<regex weight="1.0" fields="reboxetine">[rR]eboxetine|[eE]dronax|[pP]rolift</regex>
+<regex weight="1.0" fields="viloxazine">[vV]iloxazine|[vV]ivalan|[eE]movit|[vV]ivarint|[vV]icilan</regex>
+<regex weight="1.0" fields="atomoxetine">[aA]tomoxetine|[sS]trattera</regex>
+<regex weight="1.0" fields="amitriptyline">[aA]mitriptyline|[eE]lavil|[eE]ndep</regex>
+<regex weight="1.0" fields="amitriptylinoxide">[aA]mitriptylinoxide|[aA]mioxid|[aA]mbivalon|[eE]quilibrin|[aA]mitriptyline N-oxide</regex>
+<regex weight="1.0" fields="clomipramine">[cC]lomipramine|[aA]nafranil</regex>
+<regex weight="1.0" fields="desipramine">[dD]esipramine|[nN]orpramin|[pP]ertofrane|[dD]esmethylimipramine</regex>
+<regex weight="1.0" fields="dibenzepin">[dD]ibenzepin|[nN]overil|[vV]ictoril|[aA]nslopax|[dD]eprex|[eE]catril|[nN]eodit</regex>
+<regex weight="1.0" fields="dimetacrine">[dD]imetacrine|[iI]stonil|[iI]stonyl|[lL]inostil|[mM]iroistonil|[dD]imethacrine|[aA]cripramine</regex>
+<regex weight="1.0" fields="dozulepin">[dD]osulepin|[pP]rothiaden|[dD]othep|[tT]haden|[dD]opress|[dD]othiepin</regex>
+<regex weight="1.0" fields="doxepin">[dD]oxepin|[aA]dapin|[sS]inequan</regex>
+<regex weight="1.0" fields="imipramine">[iI]mipramine|[tT]ofranil|[mM]elipramine</regex>
+<regex weight="1.0" fields="lofepramine">[lL]ofepramine|[lL]omont|[gG]amanil|[tT]ymelyt</regex>
+<regex weight="1.0" fields="melitracen">[mM]elitracen|[dD]ixeran|[mM]elixeran|[tT]rausabun|[aA]daptol|[tT]hymeol</regex>
+<regex weight="1.0" fields="nitroxazepine">[nN]itroxazepine|[sS]intamil</regex>
+<regex weight="1.0" fields="notriptyline">[nN]ortriptyline|[pP]amelor|[aA]ventyl|[sS]ensoval|[nN]orpress|[aA]llegron|[nN]oritren</regex>
+<regex weight="1.0" fields="noxiptiline">[nN]oxiptiline|[aA]gedal|[eE]lronon|[nN]ogedal|[nN]oxiptyline|[dD]ibenzoxine</regex>
+<regex weight="1.0" fields="pipofezine">[pP]ipofezine|[aA]zafen|[aA]zaphen</regex>
+<regex weight="1.0" fields="protriptyline">[pP]rotriptyline|[vV]ivactil</regex>
+<regex weight="1.0" fields="trimipramine">[tT]rimipramine|[sS]urmontil|[rR]hotrimine|[sS]tangyl</regex>
+<regex weight="1.0" fields="butriptyline">[bB]utriptyline|[eE]vadyne|[eE]vadene|[eE]vasidol|[cC]entrolese</regex>
+<regex weight="1.0" fields="demexiptiline">[dD]emexiptiline|[dD]eparon|[tT]inoran</regex>
+<regex weight="1.0" fields="imipraminoxide">[iI]mipraminoxide|[iI]miprex|[eE]lepsin|[iI]mipramine N-oxide</regex>
+<regex weight="1.0" fields="iprindole">[iI]prindole|[pP]rondol|[gG]alatur|[tT]etran)|[pP]ramindole</regex>
+<regex weight="1.0" fields="metapramine">[mM]etapramine|[tT]imaxel|[pP]rodastene</regex>
+<regex weight="1.0" fields="propizepine">[pP]ropizepine|[dD]epressin|[vV]agran</regex>
+<regex weight="1.0" fields="quinupramine">[qQ]uinupramine|[kK]inupril|[kK]evopril)|[aA]deprim|[qQ]uinuprine</regex>
+<regex weight="1.0" fields="opripramol">[oO]pipramol|[iI]nsidon|[pP]ramolan|[eE]nsidon|[oO]primol</regex>
+<regex weight="1.0" fields="tianeptine">[tT]ianeptine|[sS]tablon|[cC]oaxil|[tT]atinol|[tT]ianeurax|[sS]alymbra</regex>
+<regex weight="1.0" fields="amineptine">[aA]mineptine|[sS]urvector|[mM]aneon|[dD]irectim|[nN]eolior|[pP]rovector|[vV]iaspera</regex>
+<regex weight="1.0" fields="tiazesim">[tT]iazesim|[aA]ltinil|[tT]hiazesim|[tT]hiazenone</regex>
+<regex weight="1.0" fields="amoxapine">[aA]moxapine|[aA]sendin|[aA]sendis|[dD]efanyl|[dD]emolox|[oO]xamine|[oO]xcap|[aA]disen|[aA]molife</regex>
+<regex weight="1.0" fields="maprotiline">[mM]aprotiline|[lL]udiomil|[dD]eprilept|[pP]symion</regex>
+<regex weight="1.0" fields="mianserin">[mM]ianserin|[bB]olvidon|[nN]orval|[tT]olvon|[dD]epnon|[lL]antanon|[lL]erivon|[lL]umin|[tT]olmin</regex>
+<regex weight="1.0" fields="mirtazapine-2names">[mM]irtazapine|[rR]emeron</regex>
+<regex weight="1.0" fields="setiptiline">[sS]etiptiline|[tT]ecipul|[tT]eciptiline</regex>
+<regex weight="1.0" fields="isocarboxazid">[iI]socarboxazid|[mM]arplan|[mM]arplon|[eE]nerzer</regex>
+<regex weight="1.0" fields="phenelzine">[pP]henelzine|[nN]ardil|[nN]ardelzine</regex>
+<regex weight="1.0" fields="tranylcypromine">[tT]ranylcypromine|[pP]arnate</regex>
+<regex weight="1.0" fields="benmoxin">[bB]enmoxin|[nN]euralex|[nN]erusil|[mM]ebamoxine</regex>
+<regex weight="1.0" fields="iproclozide">[iI]proclozide|[sS]ursum|[sS]inderesin</regex>
+<regex weight="1.0" fields="iproniazid">[iI]proniazid|[mM]arsilid|[rR]ivivol[eE]uphozid|[iI]prazid|[iI]pronid|[iI]pronin</regex>
+<regex weight="1.0" fields="mebanazine">[mM]ebanazine|[aA]ctomol</regex>
+<regex weight="1.0" fields="nialamide">[nN]ialamide|[nN]iamid|[nN]iamide|[nN]uredal|[sS]urgex</regex>
+<regex weight="1.0" fields="octamoxin">[oO]ctamoxin|[xX]imaol|[nN]imaol|2-octylhydrazine</regex>
+<regex weight="1.0" fields="pheniprazine">[pP]heniprazine|[cC]atron)|[cC]avodil</regex>
+<regex weight="1.0" fields="phenoxypropazine">[pP]henoxypropazine|[dD]razine</regex>
+<regex weight="1.0" fields="pivhyrdazine">[pP]ivhydrazine|[tT]ersavid|[pP]ivalylbenzhydrazine|[pP]ivazide</regex>
+<regex weight="1.0" fields="safrazine">[sS]afrazine|[sS]afra </regex>
+<regex weight="1.0" fields="selegiline">[sS]elegiline|[eE]ldepryl|[zZ]elapar|[eE]msam|L-deprenyl|[aA]nipryl</regex>
+<regex weight="1.0" fields="caroxazone">[cC]aroxazone|[sS]urodil|[tT]imostenil </regex>
+<regex weight="1.0" fields="metralindole">[mM]etralindole|[iI]nkazan</regex>
+<regex weight="1.0" fields="moclobemide">[mM]oclobemide|[aA]urorix|[mM]anerix|[aA]mira|[cC]lobemix|[dD]epnil</regex>
+<regex weight="1.0" fields="pirlindole">[pP]irlindole|[pP][i|y]razidol|[lL]ifril</regex>
+<regex weight="1.0" fields="toloxatone">[tT]oloxatone|[hH]umoryl</regex>
+<regex weight="1.0" fields="eprobemide">[eE]probemide|[bB]efol</regex>
+<regex weight="1.0" fields="minaprine">[mM]inaprine|[bB]rantur|[cC]antor</regex>
+<regex weight="1.0" fields="amisulpride">[aA]misulpride|[sS]olian|[aA]mazeo|[aA]mipride|[aA]mival|[sS]oltus|[sS]ulpitac|[sS]ulprix|[sS]ocian</regex>
+<regex weight="1.0" fields="lurasidone">[lL]urasidone|[lL]atuda </regex>
+<regex weight="1.0" fields="quetiapine">[qQ]uetiapine|[sS]eroquel </regex>
+<regex weight="1.0" fields="agomelatine">[aA]gomelatine|[vV]aldoxan|[mM]elitor|[tT]hymanax</regex>
+<regex weight="1.0" fields="bifemelane">[bB]ifemelane|[aA]lnert|[cC]eleport|[bB]ifemelane [hH]ydrochloride| 4-(O-benzylphenoxy)-N-methylbutylamine</regex>
+<regex weight="1.0" fields="bupropion">[bB]upropion|[wW]ellbutrin|[zZ]yban</regex>
+<regex weight="1.0" fields="ketamine">[kK]etamine|[kK]etalar</regex>
+<regex weight="1.0" fields="tandospirone">[tT]andospirone|[sS]ediel|[mM]etanopirone</regex>
+<regex weight="1.0" fields="teniloxazine">[tT]eniloxazine|[lL]ucelan|[mM]etatone|[sS]ufoxazine|[sS]ulfoxazine</regex>
+<regex weight="1.0" fields="alpha-methyltryptamine">(\p{Greek}|[aA]lpha)?(-| )?[mM]ethyltryptamine|(\p{Greek}|[aA]lpha|[aA])MT|[iI]ndopan</regex>
+<regex weight="1.0" fields="etryptamine">[eE]tryptamine|(\p{Greek}|[aA]lpha)?(-| )?[eE]thyltryptamine|[aA]lpha|[aA])ET|[mM]onase</regex>
+<regex weight="1.0" fields="indeloxazine">[iI]ndeloxazine|[eE]len|[nN]oin|[Ii]ndeloxazine [hH]ydrochloride</regex>
+<regex weight="1.0" fields="medifozamine">[mM]edifoxamine|[cC]l\p{Latin}dial|[gG]erdaxyl|[mM]edifoxamine [fF]umarate|N,N-dimethyl-2,2-diphenoxyethylamine</regex>
+<regex weight="1.0" fields="nomifensine">[nN]omifensine|[mM]erital|[aA]lival</regex>
+<regex weight="1.0" fields="oxaflozane">[oO]xaflozane|[cC]onflictan</regex>
+<regex weight="1.0" fields="pivagabine">[pP]ivagabine|[tT]onerg|N-pivaloyl-γ-aminobutyric [aA]cid|N-pivaloyl-GABA</regex>
+<regex weight="1.0" fields="ademetionine">[aA]demetionine|[sS](-| )?[aA]denosyl-L-methionine|SAMe|SAM|SAM-e|[hH]eptral|[tT]ransmetil|[sS]amyl|[aA]do[mM]et</regex>
+<regex weight="1.0" fields="stjohnswort">([hH]ypericum|[hH].) [pP]erforatum|([sS][tT]|[sS]aint)(.| )?[jJ]ohn(')?s(-| )?[wW]ort|SJW|[jJ]arsin|[kK]ira|[mM]ovina</regex>
+<regex weight="1.0" fields="oxitriptan">[oO]xitriptan|5-[hH]ydroxytryptophan|5-HTP|[cC]incofarm|[lL]evothym|[tT]riptum|[lL]evotonine|[oO]xyfan|[tT]elesol|[tT]ript-OH</regex>
+<regex weight="1.0" fields="trypotphan">[tT]ryptophan|[tT]ryptan|Trp|[oO]ptimax|[aA]minomine</regex>
+<regex weight="1.0" fields="aripirazole">[aA]ripiprazole|[aA]bilify</regex>
+<regex weight="1.0" fields="brexpiprazole">[bB]rexpiprazole|[rR]exulti|OPC-34712</regex>
+<regex weight="1.0" fields="olanzapine">[oO]lanzapine|[zZ]yprexa</regex>
+<regex weight="1.0" fields="risperidone">[rR]isperidone|[rR]isperdal</regex>
+<regex weight="1.0" fields="buspirone">[bB]uspirone|[bB]u[sS]par </regex>
+<regex weight="1.0" fields="lithium">[lL]ithium ([sS]alts|[cC]itrate)?|[eE]skalith|[lL]ithobid|[cC]amcolit</regex>
+<regex weight="1.0" fields="thyroxine">[tT]hyroxine|T4|[tT]riiodothyronine|T3</regex>
+<regex weight="1.0" fields="etafron">[aA]mitriptyline(/|\) [pP]erphenazine|[eE]tafron|[dD]uo-[vV]il|[tT]riavil|[tT]riptafen</regex>
+<regex weight="1.0" fields="deanxit">[fF]lupentixol(/|\)[mM]elitracen|[dD]eanxit|[pP]lacida|[fF]r(a|e)nxit|[aA]nxidreg|[sS]ensit|[rR]enxit|[mM]elixol|[mM]elanxit|[bB]enzit|[lL]eanxit</regex>
+<regex weight="1.0" fields="symbax">[oO]lanzapine(/|\)[fF]luoxetine|[sS]ymbyax|[cC]inol ([fF]orte|[pP]lus)|[dD]epten-OZ|M-Olan [pP]lus|Oladay-F|[oO]lanex-F|[oO]lapin ([fF]orte|[pP]lus)|[oO]lorest-F</regex>
+<regex weight="1.0" fields="parstelin">[tT]ranylcypromine(/|\) [tT]rifluoperazine|[pP]arstelin|[pP]armodalin|[jJ]atrosom N|[sS]telapar</regex>
+<regex weight="1.0" fields="apimostinel">[aA]pimostinel|NRX(-| )?1074|AGN(-| )?241660|[tT]hreonyl-prolyl-2R-(2-benzyl)-prolyl-threonine amide</regex>
+<regex weight="1.0" fields="av101">AV(-| )?101|4(-| )?chlorokynurenine|4(-| )?Cl-KYN|3-(4-Chloroanthraniloyl)-DL-alanine</regex>
+<regex weight="1.0" fields="basimglurant">[bB]asimglurant|RG7090|RO(-| )?4917523</regex>
+<regex weight="1.0" fields="mk0657">CERC(-| )?301|MK(-| )?0657</regex>
+<regex weight="1.0" fields="eksetamine">[eE]sketamine|JNJ(-| )?54135419|[kK]etanest S|(S)(-| )?ketamine|S(+)(-| )?ketamine</regex>
+<regex weight="1.0" fields="evt101">EVT(-| )?10(1|3)|ENS(-| )?10(1|3)</regex>
+<regex weight="1.0" fields="rapastinel">[rR]apastinel|GLYX(-| )?13|BV(-| )?102</regex>
+<regex weight="1.0" fields="ademetionine">[aA]demetionine|S-[aA]denosyl methionine|SAMe|MSI(-| )?19(0|5)|[sS]trada</regex>
+<regex weight="1.0" fields="amitifadine">[aA]mitifadine|DOV(-| )?21(,| |.)?947|EB(-| )?1010</regex>
+<regex weight="1.0" fields="AN788">AN(-| )?788|NSD(-| )?788</regex>
+<regex weight="1.0" fields="ansofaxine">[aA]nsofaxine|LY03005|LPM570065</regex>
+<regex weight="1.0" fields="asc01">[aA]ripiprazole(/|\)[sS]ertraline|ASC(-| )?01</regex>
+<regex weight="1.0" fields="cariprazine">[cC]ariprazine|[vV]raylar|RGH(-| )?188</regex>
+<regex weight="1.0" fields="gepirone">[gG]epirone|TGFK07AD|[tT]ravivo|[gG]epirone ([Hh]ydrochloride|ER)</regex>
+<regex weight="1.0" fields="iti007">[lL]umateperone|ITI(-| )?007|ITI(-| )?722</regex>
+<regex weight="1.0" fields="lurasidone">[lL]urasidone|[lL]atuda </regex>
+<regex weight="1.0" fields="min117">MIN(-| )?117|WF(-| )?516</regex>
+<regex weight="1.0" fields="rp5063">RP(-| )?5063|RP(-| )?5000</regex>
+<regex weight="1.0" fields="tgba01ad">TGBA01AD|FKB01MD</regex>
+<regex weight="1.0" fields="alks5461">[bB]uprenorphine(/|\)[sS]amidorphan|ALKS(-| )?5461</regex>
+<regex weight="1.0" fields="cerc501">CERC(-| )?501|LY(-| )?2456302</regex>
+<regex weight="1.0" fields="ly2940094">LY(-| )?2940094</regex>
+<regex weight="1.0" fields="axs05">[bB]upropion(/|\)[dD]extromethorphan|AXS(-| )?05</regex>
+<regex weight="1.0" fields="cyclurad">[cC]ycloserine(/|\)[lL]urasidone|[cC]yclurad</regex>
+<regex weight="1.0" fields="avp923">[dD]extromethorphan(/|\)[qQ]uinidine|AVP(-| )?786(/|\)AVP(-| )?923|[nN]uedexta</regex>
+<regex weight="1.0" fields="tramadol">[tT]ramadol|ETS6103(/|\)[vV]iotra|[uU]ltram</regex>
+<regex weight="1.0" fields="map4343">3\p{Greek}(-| )? [mM]ethoxypregnenolone|MAP(-| )?4343|[pP]regnenolone 3\p{Greek}(-| )?[mM]ethyl [eE]ther|3\p{Greek}(-| )?[mM]ethoxypregn(-| )?5(-| )?en(-| )?20(-| )?one</regex>
+<regex weight="1.0" fields="sage547">[aA]llopregnanolone|SAGE(-| )?547|5\p{Greek}(-| )?[pP}regnan(-| )?3\p{Greek}(-| )?ol(-| )?20(-| )?one|3\p{Greek}(,| |-)?5\p{Greek}(,| |-)?tetrahydroprogesterone|3\p{Greek}(,| |-)?5\p{Greek}(,| |-)?THP</regex>
+<regex weight="1.0" fields="jnj39393406">JNJ(-| )?39393406 </regex>
+<regex weight="1.0" fields="jnj42847922">JNJ(-| )?42847922|MIN(-| )?202|JNJ(-| )?922</regex>
+<regex weight="1.0" fields="nni351">NNI(-| )?351 </regex>
+<regex weight="1.0" fields="nsi189">NSI(-| )?189</regex>
+<regex weight="1.0" fields="botox">[oO]nabotulinumtoxinA|[bB]otulinum [tT]oxin A|[bB]otox</regex>
+<regex weight="1.0" fields="vomeropherine">PH(-| )?10|[vV]omeropherine </regex>
+<regex weight="1.0" fields="sirukumab">[sS]irukumab|CNTO(-| )?136 </regex>
+<regex weight="1.0" fields="ts121">TS(-| )?121</regex>
+</compoundRegex>
